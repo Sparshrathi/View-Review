@@ -1,0 +1,214 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 48.8834025,
+        "lng": 2.3501652
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 23.33237083029151,
+          "lng": 75.04424688029151
+        },
+        "southwest": {
+          "lat": 23.3296728697085,
+          "lng": 75.04154891970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "name": "Top N Town",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103015437761707799064\">Chetan Kothari</a>"
+        ],
+        "photo_reference": "CmRaAAAAZMkHI9oqUtYIKXZ7x_L-e03Ru5MMgayCLt5MAWbyiKB6ZaKzK4Z0lTeq7HbMy55YU50LZbzfzW3yacIw1Vdd8mDyXpV8PxkMQJVzI8qA11hIDaEbCRl_AGOh47JZNeMUEhCJhyZIVo9CiktdlDhrF0siGhRuQ56MauP2hOuUR7EriBHTbfOVZQ",
+        "width": 3480
+      }
+    ],
+    "place_id": "ChIJX4pSuKP-YzkRJPa4d9Yp_ZY",
+    "plus_code": {
+      "compound_code": "82JV+C4 Ratlam, Madhya Pradesh, India",
+      "global_code": "7JMQ82JV+C4"
+    },
+    "rating": 4,
+    "reference": "ChIJX4pSuKP-YzkRJPa4d9Yp_ZY",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "grocery_or_supermarket",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 153,
+    "vicinity": "135, opp. Anand Furniture Mall, New Road, Shastri Nagar, Ratlam"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 48.8737815,
+        "lng": 2.3501649
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 23.3316874302915,
+          "lng": 75.03815323029151
+        },
+        "southwest": {
+          "lat": 23.3289894697085,
+          "lng": 75.03545526970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "name": "Domino's Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112261654152398415921\">Civilian Singh</a>"
+        ],
+        "photo_reference": "CmRaAAAAFwT2nerxooJh-JOZ1XI6ocDurxlImqEQi_65Ys4A3DtICto5X7llCiKalW5UY16OQX6KGyunpWLfvfBgR0ZACRXWIeDt1XyMAhzaAQOSoPCO--31d_n80z5nh7Cx59TUEhCBrTvrFD365ZYnlsCBsYD0GhSBMWxmUrsIp2l-a1jAnU0bVEo_hQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJr6wygJj-YzkRKCAhW6M7Na0",
+    "plus_code": {
+      "compound_code": "82JP+4Q Ratlam, Madhya Pradesh, India",
+      "global_code": "7JMQ82JP+4Q"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJr6wygJj-YzkRKCAhW6M7Na0",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 877,
+    "vicinity": "Front part of Ground Floor, 685/1, 1/1, Gayatri Cinema, Subash Marg, Gayatri Talkies Road, Ratlam"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 48.8865035,
+        "lng": 2.3442197
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 23.3316874302915,
+          "lng": 75.03815323029151
+        },
+        "southwest": {
+          "lat": 23.3289894697085,
+          "lng": 75.03545526970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "name": "Pizza hut",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112261654152398415921\">Civilian Singh</a>"
+        ],
+        "photo_reference": "CmRaAAAAFwT2nerxooJh-JOZ1XI6ocDurxlImqEQi_65Ys4A3DtICto5X7llCiKalW5UY16OQX6KGyunpWLfvfBgR0ZACRXWIeDt1XyMAhzaAQOSoPCO--31d_n80z5nh7Cx59TUEhCBrTvrFD365ZYnlsCBsYD0GhSBMWxmUrsIp2l-a1jAnU0bVEo_hQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJr6wygJj-YzkRKCAhW6M7Na0",
+    "plus_code": {
+      "compound_code": "82JP+4Q Ratlam, Madhya Pradesh, India",
+      "global_code": "7JMQ82JP+4Q"
+    },
+    "price_level": 2,
+    "rating": 2.2,
+    "reference": "ChIJr6wygJj-YzkRKCAhW6M7Na0",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 877,
+    "vicinity": "Front part of Ground Floor, 685/1, 1/1, Gayatri Cinema, Subash Marg, Gayatri Talkies Road, Ratlam"
+  }, {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 46.9171876,
+        "lng": 17.8951832
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 23.3316874302915,
+          "lng": 75.03815323029151
+        },
+        "southwest": {
+          "lat": 23.3289894697085,
+          "lng": 75.03545526970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "name": "Eat and Repeat",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112261654152398415921\">Civilian Singh</a>"
+        ],
+        "photo_reference": "CmRaAAAAFwT2nerxooJh-JOZ1XI6ocDurxlImqEQi_65Ys4A3DtICto5X7llCiKalW5UY16OQX6KGyunpWLfvfBgR0ZACRXWIeDt1XyMAhzaAQOSoPCO--31d_n80z5nh7Cx59TUEhCBrTvrFD365ZYnlsCBsYD0GhSBMWxmUrsIp2l-a1jAnU0bVEo_hQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJr6wygJj-YzkRKCAhW6M7Na0",
+    "plus_code": {
+      "compound_code": "82JP+4Q Ratlam, Madhya Pradesh, India",
+      "global_code": "7JMQ82JP+4Q"
+    },
+    "price_level": 2,
+    "rating": 3.0,
+    "reference": "ChIJr6wygJj-YzkRKCAhW6M7Na0",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 877,
+    "vicinity": "Front part of Ground Floor, 685/1, 1/1, Gayatri Cinema, Subash Marg, Gayatri Talkies Road, Ratlam"
+  }
+
+]

@@ -1,0 +1,38 @@
+.sidebar {
+  width: 25%;
+  // border: 2px solid green;
+  max-height: 80vh;
+  float: right;
+  overflow: scroll;
+  
+
+  @include respond(tablet) {
+    width: 100%;
+    float: left;
+  }
+}
+.reviewarea {
+  width: 100%;
+  border: 2px solid green;
+  max-height: 80vh;
+  float: right;
+  overflow: scroll;
+
+  @include respond(tablet) {
+    width: 100%;
+    float: left;
+  }
+
+}
+  .streetarea {
+  width: 100%;
+  border: 2px solid green;
+  max-height: 80vh;
+  float: right;
+  overflow: scroll;
+
+  @include respond(tablet) {
+    width: 100%;
+    float: left;
+  }
+}

@@ -1,0 +1,11 @@
+.footer {
+  padding: 1.5rem 0;
+  border-top: solid 2px rgba($colour-1, 0.3);
+  letter-spacing: 0.3px;
+  color: aliceblue;
+  margin-top: auto;
+  @include respond(largePhone) {
+    letter-spacing: 0;
+    width: 90%;
+  }
+}
